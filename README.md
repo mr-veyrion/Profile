@@ -14,8 +14,7 @@ I'm an innovative and forward-thinking **Bachelor of Computer Applications (BCA)
 - 📄 Published Research Paper: [DOI: 10.22214/ijraset.2025.66859](https://doi.org/10.22214/ijraset.2025.66859) **Adaptive Quantum Circuit Compilation for NISQ Devices**
 - 🤖 Passionate about **LLM fine-tuning, AI ethics, and emerging tech**
 - 🎯 Seeking opportunities to **collaborate on AI/ML projects**
-
-🎵 *Vibe while browsing!* [![Listen](https://img.shields.io/badge/Play%20Music-🎵-blue)](https://www.bensound.com/)  
+ 
 
 ---
 
