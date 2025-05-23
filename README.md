@@ -71,9 +71,9 @@ I'm an innovative and forward-thinking **Bachelor of Computer Applications (BCA)
 ---
 
 ## 📊 GitHub Stats & Activity  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aetherion-github&theme=radical)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aetherion-github&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aetherion-github&layout=compact&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mr-veyrion&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mr-veyrion&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mr-veyrion&layout=compact&theme=radical)  
 
 ![Coding Gif](https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif)
 
