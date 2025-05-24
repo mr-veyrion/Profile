@@ -58,7 +58,6 @@ I'm an innovative and forward-thinking **Bachelor of Computer Applications (BCA)
 
 *(More projects will be added soon!)*  
 
-![AI Gif](https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif)
 
 ---
 
